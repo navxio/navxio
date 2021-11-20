@@ -1,5 +1,5 @@
 Hi👋, I'm Nav!
 
-I like Python, JavaScript and DevOps and some functional programming languages.
+I love JavaScript, Python and DevOps.
 
-Currently learning Terraform and AWS!
+Currently learning AWS, Terraform.
