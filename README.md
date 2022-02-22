@@ -2,8 +2,6 @@ Hi👋, I'm Nav!
 
 I love JavaScript, Python and DevOps.
 
-Currently learning AWS, Terraform.
-
 `chatty` with me:
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
