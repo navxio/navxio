@@ -1,21 +1,3 @@
 Hi👋, I'm Nav!
 
-I love JavaScript, Python and DevOps.
-
-`chatty` with me:
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEYdLhCBYJKwYBBAHaRw8BAQdANfvgTZuHOzZq4PR4Lp67bC/xx210NRcydKtE
-Y/Pf83S0NE5hdmRlZXAgU2FpbmkgKFBlcnNvbmFsIEtleSkgPG5hdmRlZXBvbmVA
-aWNsb3VkLmNvbT6IlAQTFgoAPBYhBBAd2JIGcdK7fHkOa+wnnHbTtcKqBQJh0uEI
-AhsDBQsJCAcCAyICAQYVCgkICwIEFgIDAQIeBwIXgAAKCRDsJ5x207XCqnQUAQD3
-zk87f0MBT+i1jo0vyeKt+P2tfVSADyUAregvL4qJXgD/baG0klPUXvcPffEtbU4a
-RuwjFdYFrej1KhSZ0yDBIAG4OARh0uEIEgorBgEEAZdVAQUBAQdAbjw0bli7ScWm
-RCEmBy/aAlrebpoGqCObhM44b7X+xEsDAQgHiHgEGBYKACAWIQQQHdiSBnHSu3x5
-DmvsJ5x207XCqgUCYdLhCAIbDAAKCRDsJ5x207XCqm2fAQD2wB4ILoxU3f3AZfBX
-ySEV7Bvh7av94rhgSzb8EuZapAD9FgvHKSvekO8ubM0uFrL0/68Z2YNqEhvQwUSs
-fNC+1QU=
-=+W3O
-
------END PGP PUBLIC KEY BLOCK-----
+I love hardware, software, and everything in between!
