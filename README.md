@@ -1,3 +1,3 @@
-Hi👋, I'm Nav!
+Hi👋, I'm Navdeep!
 
-I love hardware, software, and everything in between!
+I'm an engineer and CS enthusiast.
